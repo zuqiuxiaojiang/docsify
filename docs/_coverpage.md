@@ -1,18 +1,20 @@
-# 构建web文档 - docsify模板
-- 主题切换
-- 搜索关键字
-- edit in repo
-- 分页
-- 最后编辑时间
-- ......
+<!-- _coverpage.md -->
 
-[Github](https://github.com/missfoxw/docsify-template/tree/master)
-[点击进入](./README.md)
+![logo](images/翼.png)
+
+# 天使之翼 <small>2025</small>
+
+> 新秀崛起
+
+- 胜利的凯歌
+
+[关于](/README)
+
 
 <!-- 背景图片 -->
 
-<!-- ![](static/img/cp.jpeg) -->
+<!-- ![](/_media/icon.svg) -->
 
 <!-- 背景色 -->
 
-<!-- ![color](#fab1a0) -->
+<!-- ![color](#f0f0f0) -->
